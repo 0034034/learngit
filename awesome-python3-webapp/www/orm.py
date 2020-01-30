@@ -39,3 +39,4 @@ def select(sql,args,size=None):
 @asyncio.coroutine
 def execute(sql,args):
     pass
+    pass2
