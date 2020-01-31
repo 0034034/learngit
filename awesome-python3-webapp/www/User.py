@@ -13,4 +13,4 @@ users = User.findAll()
 print(user['id'])
 print(user.id)
 
-aaa
+
